@@ -36,8 +36,19 @@ This was used to answer most, if not all of our questions. Total deaths was impo
 
 Put an image of your UML Diagram here. Upload the image of your UML Diagram to your repository, then use the Markdown syntax to insert your image here. Make sure your image file name is one work, otherwise it might not properly get displayed on this README. 
 
-![UML Diagram for my project](nameOfImageFileHere.png) 
+![UML Diagram for my project](UmlDiagram.png) 
 
 ## Description 
 
 Write a description of your project here. In your description, include as many vocab words from our class to explain your User Story, the chosen dataset and how your project addressed that users goals. If your project used the Scanner class for user input, explain how the user will interact with your project.
+
+
+As world history enjoyers, we wanted to do something related to world history. As data sets are difficult to find, and not much common interest in anything else, we decided on world war 2. We wanted to put implement data from a ww2 casualties data-set into our comp sci project. Our code stores the important information in arrays that are strings and integers. Both for the countries and the numbers. Getter methods are used, and a file reader enables the information stored to be accessed and used. Now its just for-loops and methods that make calculations such as the average, and country with the most to make function. Lastly a toString sews it all together so we get an output. Our data set really answered our questions: 
+
+- Which country suffered the most casualties?
+
+- What is the average number of casualties across all countries?
+
+- How many countries had casualties above 1,000,000?
+
+This project and data set really helped us understand the scale of human cost during the war. Not just this war, but every war has a cost. We thank the soldiers and veterans that served our contry to protect our freedom.
