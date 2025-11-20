@@ -51,4 +51,4 @@ As world history enjoyers, we wanted to do something related to world history. A
 
 - How many countries had casualties above 1,000,000?
 
-This project and data set really helped us understand the scale of human cost during the war. Not just this war, but every war has a cost. We thank the soldiers and veterans that served our contry to protect our freedom.
+This project and data set really helped us understand the scale of human cost during the war. Not just this war, but every war has a cost. We thank the soldiers and veterans that served our country to protect our freedom.
